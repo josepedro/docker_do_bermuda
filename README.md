@@ -1,2 +1,3 @@
 # docker_do_bermuda
-# docker_do_bermuda
+
+See: https://github.com/jpetazzo/dind
